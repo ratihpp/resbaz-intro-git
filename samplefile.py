@@ -20,6 +20,6 @@
 
 def multiplication(a, b):
 
-	product = a * b
+	product1 = a * b
 
-	return product
+	return product1
