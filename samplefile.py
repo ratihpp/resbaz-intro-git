@@ -12,7 +12,11 @@
 # 	return difference
 
 
-def division23(a, b):
+
+
+
+def division22(a, b):
+
 
 	quotient = a / b
 
